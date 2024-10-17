@@ -1,0 +1,44 @@
+{
+  "animals": [
+    {
+      "id": "1",
+      "name": "Lion",
+      "image": "https://cdn.britannica.com/30/150930-120-D3D93F1E/lion-Namibia.jpg",
+      "facts": "Lions are the only cats that live in groups.",
+      "likes": 2,
+      "comments": []
+    },
+    {
+      "id": "2",
+      "name": "Elephants",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAgjeh_PZSC9gUmlm1dzEkbCsP71owoucsFWhoIYYpp7u1czrj",
+      "facts": "Elephants are the largest land animals on Earth.",
+      "likes": 0,
+      "comments": []
+    },
+    {
+      "id": "3",
+      "name": "Giraffe",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmoqReAwT4gSt3Rw-NqV67Iu-MZ7CEXgrAyw&s",
+      "facts": "Giraffes have the same number of neck vertebrae as humans",
+      "likes": 0,
+      "comments": []
+    },
+    {
+      "id": "4",
+      "name": "Zebra",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxHnWYroZHa9B0OuJW-YSlbACFBPkGBHgdlA&s",
+      "facts": "No two zebras have the same stripe pattern.",
+      "likes": 0,
+      "comments": []
+    },
+    {
+      "id": "5",
+      "name": "Penguins",
+      "image": "https://media.glamour.com/photos/56959e35d9dab9ff41b308a0/master/pass/inspired-2015-02-gentoo-penguin-main.jpg",
+      "facts": "A group of penguins in the water is called a raft but on land they’re called a waddle!",
+      "likes": 0,
+      "comments": []
+    }
+  ]
+}
